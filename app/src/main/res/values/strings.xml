@@ -1,7 +1,11 @@
 <resources>
     <string name="app_name">Autise</string>
     <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_content">Mais uma fase concluida!\n
+    Agora as empresas precisam saber\n
+    seus pontos fortes, selecione abaixo:</string>
+
+
     <string name="title_activity_login">LoginActivity</string>
     <string name="prompt_email"> Email</string>
     <string name="prompt_password"> Password</string>
