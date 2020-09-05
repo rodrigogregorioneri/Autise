@@ -57,17 +57,18 @@
         app:layout_constraintTop_toBottomOf="@+id/username" />
 
     <Button
-        android:id="@+id/login"
+        android:id="@+id/loginneri"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="24dp"
         android:layout_marginEnd="24dp"
         android:autofillHints="@string/prompt_email"
-        android:background="@drawable/mybutton"
-        android:enabled="false"
+        android:background="@drawable/botaoum"
+
         android:padding="10dp"
         android:text="@string/action_sign_in"
         android:textColor="#ffffff"
+
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.187"

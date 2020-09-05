@@ -61,7 +61,7 @@
                                 android:layout_marginEnd="4dp"
                                 android:autofillHints="@string/prompt_email"
                                 android:background="@drawable/botaodois"
-                                android:enabled="false"
+
                                 android:padding="5dp"
                                 android:text="Raciocínio Lógico"
                                 android:textColor="#000000"
@@ -80,7 +80,7 @@
                                 android:layout_marginEnd="4dp"
                                 android:autofillHints="@string/prompt_email"
                                 android:background="@drawable/botaoum"
-                                android:enabled="false"
+
                                 android:padding="5dp"
                                 android:text="Inglês"
                                 android:textColor="#ffffff"
@@ -99,7 +99,7 @@
                                 android:layout_marginEnd="4dp"
                                 android:autofillHints="@string/prompt_email"
                                 android:background="@drawable/botaoum"
-                                android:enabled="false"
+
                                 android:padding="5dp"
                                 android:text="Pacote Office"
                                 android:textColor="#ffffff"
@@ -125,7 +125,7 @@
                                 android:layout_marginEnd="4dp"
                                 android:autofillHints="@string/prompt_email"
                                 android:background="@drawable/botaodois"
-                                android:enabled="false"
+
                                 android:padding="5dp"
                                 android:text="Informática básica"
                                 android:textColor="#000000"
@@ -144,7 +144,7 @@
                                 android:layout_marginEnd="4dp"
                                 android:autofillHints="@string/prompt_email"
                                 android:background="@drawable/botaodois"
-                                android:enabled="false"
+
                                 android:padding="5dp"
                                 android:text="Informática avançada"
                                 android:textColor="#000000"
@@ -170,7 +170,7 @@
                                 android:layout_marginEnd="4dp"
                                 android:autofillHints="@string/prompt_email"
                                 android:background="@drawable/botaoum"
-                                android:enabled="false"
+
                                 android:padding="5dp"
                                 android:text="Espanhol"
                                 android:textColor="#ffffff"
@@ -189,7 +189,7 @@
                                 android:layout_marginEnd="4dp"
                                 android:autofillHints="@string/prompt_email"
                                 android:background="@drawable/botaoum"
-                                android:enabled="false"
+
                                 android:padding="5dp"
                                 android:text="Português"
                                 android:textColor="#ffffff"
@@ -208,7 +208,7 @@
                                 android:layout_marginEnd="4dp"
                                 android:autofillHints="@string/prompt_email"
                                 android:background="@drawable/botaodois"
-                                android:enabled="false"
+
                                 android:padding="5dp"
                                 android:text="Direito"
                                 android:textColor="#000000"
@@ -234,7 +234,7 @@
                                 android:layout_marginEnd="4dp"
                                 android:autofillHints="@string/prompt_email"
                                 android:background="@drawable/botaodois"
-                                android:enabled="false"
+
                                 android:padding="5dp"
                                 android:text="Comunicação"
                                 android:textColor="#000000"
@@ -253,7 +253,7 @@
                                 android:layout_marginEnd="4dp"
                                 android:autofillHints="@string/prompt_email"
                                 android:background="@drawable/botaodois"
-                                android:enabled="false"
+
                                 android:padding="5dp"
                                 android:text="Pensamento crítico"
                                 android:textColor="#000000"
@@ -279,7 +279,7 @@
                                 android:layout_marginEnd="4dp"
                                 android:autofillHints="@string/prompt_email"
                                 android:background="@drawable/botaoum"
-                                android:enabled="false"
+
                                 android:padding="5dp"
                                 android:text="Liderança"
                                 android:textColor="#ffffff"
@@ -298,7 +298,7 @@
                                 android:layout_marginEnd="4dp"
                                 android:autofillHints="@string/prompt_email"
                                 android:background="@drawable/botaoum"
-                                android:enabled="false"
+
                                 android:padding="5dp"
                                 android:text="Atitude Positiva"
                                 android:textColor="#ffffff"
@@ -317,7 +317,7 @@
                                 android:layout_marginEnd="4dp"
                                 android:autofillHints="@string/prompt_email"
                                 android:background="@drawable/botaodois"
-                                android:enabled="false"
+
                                 android:padding="5dp"
                                 android:text="Coletividade"
                                 android:textColor="#000000"
@@ -343,7 +343,7 @@
                                 android:layout_marginEnd="4dp"
                                 android:autofillHints="@string/prompt_email"
                                 android:background="@drawable/botaodois"
-                                android:enabled="false"
+
                                 android:padding="5dp"
                                 android:text="Raciocinio Lógico"
                                 android:textColor="#000000"
@@ -362,7 +362,7 @@
                                 android:layout_marginEnd="4dp"
                                 android:autofillHints="@string/prompt_email"
                                 android:background="@drawable/botaoum"
-                                android:enabled="false"
+
                                 android:padding="5dp"
                                 android:text="Inglês"
                                 android:textColor="#ffffff"
@@ -389,7 +389,7 @@
                                 android:layout_weight="1"
                                 android:autofillHints="@string/prompt_email"
                                 android:background="@drawable/botaoum"
-                                android:enabled="false"
+
                                 android:padding="5dp"
                                 android:text="Pacote Office"
                                 android:textColor="#ffffff"
@@ -409,7 +409,7 @@
                                 android:layout_weight="1"
                                 android:autofillHints="@string/prompt_email"
                                 android:background="@drawable/botaodois"
-                                android:enabled="false"
+
                                 android:padding="5dp"
                                 android:text="Informática básica"
                                 android:textColor="#000000"
@@ -429,7 +429,7 @@
                                 android:layout_weight="1"
                                 android:autofillHints="@string/prompt_email"
                                 android:background="@drawable/botaodois"
-                                android:enabled="false"
+
                                 android:padding="5dp"
                                 android:text="Informática avançada"
                                 android:textColor="#000000"
@@ -456,7 +456,7 @@
                                 android:layout_weight="1"
                                 android:autofillHints="@string/prompt_email"
                                 android:background="@drawable/mybutton"
-                                android:enabled="false"
+
                                 android:padding="5dp"
                                 android:text="Comunicação"
                                 android:textColor="#ffffff"
@@ -476,7 +476,7 @@
                                 android:layout_weight="1"
                                 android:autofillHints="@string/prompt_email"
                                 android:background="@drawable/mybutton"
-                                android:enabled="false"
+
                                 android:padding="5dp"
                                 android:text="Pensamento Crítico"
                                 android:textColor="#ffffff"
@@ -509,7 +509,7 @@
                             android:layout_marginEnd="4dp"
                             android:autofillHints="@string/prompt_email"
                             android:background="@drawable/botaodois"
-                            android:enabled="false"
+
                             android:padding="10dp"
                             android:text="Salvar e Continuar"
                             android:textColor="#000000"
@@ -528,7 +528,7 @@
                             android:layout_marginEnd="4dp"
                             android:autofillHints="@string/prompt_email"
                             android:background="@drawable/botaoum"
-                            android:enabled="false"
+
                             android:padding="10dp"
                             android:text="Avançar"
                             android:textColor="#ffffff"

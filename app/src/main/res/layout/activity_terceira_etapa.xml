@@ -82,7 +82,7 @@
                 android:layout_marginBottom="60dp"
                 android:autofillHints="@string/prompt_email"
                 android:background="@drawable/botaodois"
-                android:enabled="false"
+
 
                 android:padding="10dp"
                 android:text="Salvar e continuar"
@@ -96,14 +96,15 @@
 
             <Button
                 android:id="@+id/login24"
-                android:layout_width="168dp"
+                android:layout_width="136dp"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="24dp"
                 android:layout_marginBottom="68dp"
                 android:autofillHints="@string/prompt_email"
-                android:background="@drawable/mybutton"
-                android:enabled="false"
+                android:background="@drawable/botaoum"
+
                 android:padding="10dp"
+                android:paddingLeft="3dp"
                 android:text="Avançar"
                 android:textColor="#ffffff"
                 app:layout_constraintBottom_toBottomOf="parent"

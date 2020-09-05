@@ -18,6 +18,9 @@ respostas)</string>
 super feliz e você gostaria de estar sempre\n
 com esse objeto.</string>
 
+    <string name="fase1">Queremos te conhecer melhor!\n
+Por favor, preencha seus\n
+dados pessoais nesta fase:\n</string>
 
     <string name="title_activity_login">LoginActivity</string>
     <string name="prompt_email"> Email</string>
