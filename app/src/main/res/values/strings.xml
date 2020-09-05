@@ -6,6 +6,19 @@
     seus pontos fortes, selecione abaixo:</string>
 
 
+    <string name="texto_1">Parabéns! Você completou a 1ª fase!\n
+Para ajudar a encontrarmos a melhor\n
+vaga para você, temos algumas perguntas</string>
+
+    <string name="pergunta_1">O que você espera de uma empresa?(Fique à\n
+vontade, pois as empresas não vão ver suas\n
+respostas)</string>
+
+    <string name="pergunta_2">Você tem algum amuleto? Algo que te deixa\n
+super feliz e você gostaria de estar sempre\n
+com esse objeto.</string>
+
+
     <string name="title_activity_login">LoginActivity</string>
     <string name="prompt_email"> Email</string>
     <string name="prompt_password"> Password</string>
